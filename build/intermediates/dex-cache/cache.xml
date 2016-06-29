@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\fchan\AndroidStudioProjects\Android-Pre-work-Todo-App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c9744fd43e770c63b6008743d5cb4bda29874f5a">
+        <dex dex="C:\Users\fchan\AndroidStudioProjects\Android-Pre-work-Todo-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_99f662bda744cdd376c85c35e43cd37ef3c60985\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fchan\AndroidStudioProjects\Android-Pre-work-Todo-App\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\fchan\AndroidStudioProjects\Android-Pre-work-Todo-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_a3b9c66987b5bf56d509f5d64bf83de16bf642f3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fchan\AndroidStudioProjects\Android-Pre-work-Todo-App\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\fchan\AndroidStudioProjects\Android-Pre-work-Todo-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_714378c3a257ee3a9dc28b3dca55d8d7708b6496\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fchan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\fchan\AndroidStudioProjects\Android-Pre-work-Todo-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_8af7a838a525c514172b0e0f2edd7b4e3aea454c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fchan\AndroidStudioProjects\Android-Pre-work-Todo-App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\fchan\AndroidStudioProjects\Android-Pre-work-Todo-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_48329fd6a8efbdd39788dbc9d5efd9dd0d74feaf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fchan\AndroidStudioProjects\Android-Pre-work-Todo-App\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\fchan\AndroidStudioProjects\Android-Pre-work-Todo-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_293185551e612d398ddd07297fb7bde78b45b58b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fchan\AndroidStudioProjects\Android-Pre-work-Todo-App\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\fchan\AndroidStudioProjects\Android-Pre-work-Todo-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_3dadfdd23e8532ca58a58570a25b1dc624af2897\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fchan\AndroidStudioProjects\Android-Pre-work-Todo-App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcc7857e9c5fdd01e44671a240c138c9dcf902be">
+        <dex dex="C:\Users\fchan\AndroidStudioProjects\Android-Pre-work-Todo-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_aa59831e05ad9c896a1232d962345b0b3618ac49\classes.dex" />
+    </item>
+
+</items>
